@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1495312556 source:c:\git\siddmp\siddump\cpu.c
+	<stdio.h>
+	<stdlib.h>
+
+1541102077 source:c:\git\siddmp\siddump\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"cpu.h"
+
+1495312556 c:\git\siddmp\siddump\cpu.h
+
